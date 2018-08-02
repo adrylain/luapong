@@ -1,6 +1,7 @@
 # luapong
 Port of Java Pong to Lua with SDL2 bindings.
 
+v.2 Added a few installers. Mac OS installer has not been tested, but should work if you already have homebrew installed.
 v.1 Complete remake of JavaPong with updated textures from https://github.com/tms9900/javapong. Added sounds and new font.
 
 
