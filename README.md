@@ -7,7 +7,7 @@ Port of Java Pong to Lua with SDL2 bindings.
 ##### v.1 Complete remake of JavaPong with updated textures from https://github.com/tms9900/javapong. Added sounds and new font.
 
 
-Lua SDL2 bindings can be found here -> https://github.com/Tangent128/luasdl2
+Lua SDL2 binding can be found here -> https://github.com/Tangent128/luasdl2
 
 
 ## Necessary Packages:
