@@ -3,5 +3,6 @@ brew install sdl2
 brew install sdl2_image
 brew install sdl2_mixer
 brew install sdl2_ttf
+brew install sdl2_net
 
-sudo luarocks install lua-sdl2
+luarocks install lua-sdl2
